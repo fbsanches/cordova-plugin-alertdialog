@@ -15,8 +15,8 @@
   "keywords": [
     "cordova",
     "alertdialog",
-    "cordova-android",
-	"alert"
+    "ecosystem:cordova",
+    "cordova-android"
   ],
   "author": "Fernando Arce",
   "license": "Apache-2.0"

@@ -24,7 +24,7 @@ description: Triggers a call to the alert module system
 
 # cordova-plugin-alertdialog
 
-This plugin is very simple. Customize the operating system's native alerts and triggers for an immediate alert to your page.
+This plugin is very simple. Customize the operating system's native alerts and triggers for an immediate alert to your activity.
 
 ## Installation
 
