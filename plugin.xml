@@ -25,7 +25,7 @@
     <description>Cordova Alert Dialog Plugin</description>
     <license>Apache 2.0</license>
     <keywords>cordova,alertdialog</keywords>
-    <repo></repo>
+    <repo>https://github.com/fbsanches/cordova-plugin-alertdialog</repo>
     <issue></issue>
 
     <js-module src="www/alert.js" name="alertdialog">
@@ -39,7 +39,6 @@
                 <param name="android-package" value="fc.fcstudio.alertdialog"/>
             </feature>
         </config-file>
-
         <source-file src="src/android/alertdialog.java" target-dir="src/fc/fcstudio" />
     </platform>
 
